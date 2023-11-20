@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 19 Nov 2023 15:13:02 at https://kaamastra.co.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kaamastra.co.in/ -O1 "C:\My Web Sites\https___kaamastra.co.in_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:13:18	Warning: 	File not parsed, looks like binary: https://kaamastra.co.in/images/index.jfif
+15:13:18	Error: 	"Not Found" (404) at link https://kaamastra.co.in/images/01.jpg (from https://kaamastra.co.in/)
+15:13:18	Error: 	"Not Found" (404) at link https://kaamastra.co.in/images/02.jpg (from https://kaamastra.co.in/)
+15:13:18	Error: 	"Not Found" (404) at link https://kaamastra.co.in/images/03.jpg (from https://kaamastra.co.in/)
+15:13:18	Error: 	"Not Found" (404) at link https://kaamastra.co.in/images/04.jpg (from https://kaamastra.co.in/)
+15:13:18	Warning: 	File not parsed, looks like binary: https://kaamastra.co.in/images/indexs.jfif
+15:13:18	Error: 	"Not Found" (404) at link https://kaamastra.co.in/images/header-background.jpg (from https://kaamastra.co.in/css/styles.css)
+15:13:18	Error: 	"Not Found" (404) at link https://kaamastra.co.in/images/download-background.jpg (from https://kaamastra.co.in/css/styles.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 seconds : 41 links scanned, 34 files written (8364979 bytes overall) [7906370 bytes received at 494148 bytes/sec], 656059 bytes transferred using HTTP compression in 20 files, ratio 25%, 4.1 requests per connection
+(6 errors, 2 warnings, 0 messages)
